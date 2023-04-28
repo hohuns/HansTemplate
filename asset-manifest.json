@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/HansTemplate/static/css/main.845cad31.css",
-    "main.js": "/HansTemplate/static/js/main.2d172dd8.js",
+    "main.css": "/HansTemplate/static/css/main.eae4917e.css",
+    "main.js": "/HansTemplate/static/js/main.23d25d98.js",
     "index.html": "/HansTemplate/index.html",
-    "main.845cad31.css.map": "/HansTemplate/static/css/main.845cad31.css.map",
-    "main.2d172dd8.js.map": "/HansTemplate/static/js/main.2d172dd8.js.map"
+    "main.eae4917e.css.map": "/HansTemplate/static/css/main.eae4917e.css.map",
+    "main.23d25d98.js.map": "/HansTemplate/static/js/main.23d25d98.js.map"
   },
   "entrypoints": [
-    "static/css/main.845cad31.css",
-    "static/js/main.2d172dd8.js"
+    "static/css/main.eae4917e.css",
+    "static/js/main.23d25d98.js"
   ]
 }
