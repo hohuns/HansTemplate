@@ -2,7 +2,7 @@
 
 # Trial
 
-You can try demo in [here](https://hohuns.github.io/Hans-Template/#/home)
+You can try demo in [here](https://hohuns.github.io/HansTemplate/#/home)
 
 ## Detail description about project
 
